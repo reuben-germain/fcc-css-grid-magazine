@@ -71,3 +71,8 @@ img{
     color: orangered;
     text-align: center;
 }
+
+.author{
+    font-family: Raleway, sans-serif;
+    font-size: 2rem;
+}
