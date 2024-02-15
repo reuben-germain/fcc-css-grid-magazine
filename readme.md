@@ -1,3 +1,5 @@
 # Magazine Webpage
 
-![Screenshot view of the whole magazine webpage](![Alt text](magazine-webpage-screenshot.png))
+### This webpage was built while doing a freeCodeCamp challenge. This is the final result.
+
+![](magazine-webpage-screenshot.png)
